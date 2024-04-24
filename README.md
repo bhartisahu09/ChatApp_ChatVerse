@@ -1,7 +1,5 @@
 # Coding_Ninjas_React_Skill_Test-3_ChatApp_ChatVerse
 
-This is the Hosting Page: 
-
 Functionality:
 
 Assume you are a dummy logged in user.
